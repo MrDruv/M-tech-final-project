@@ -30,7 +30,7 @@ The system comprises of 2 main entities:
 
 Clone the repository using the command:
 ```sh
-git clone https://github.com/Sahil181045/Certificate-Validation-System.git
+git clone https://github.com/MrDruv/M-tech-final-project.git
 ```
 You can run the project either through:
 - [Local Setup](#local-setup)
